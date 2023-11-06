@@ -1,0 +1,16 @@
+{
+    "name": "next-textswitcher",
+    "version": "1.0.2",
+    "description": "🎉 A public text switcher component for Next.JS",
+    "main": "./dist/exports.js",
+    "keywords": [
+        "component",
+        "nextjs",
+        "react"
+    ],
+    "author": "NITLIX HOLDINGS LTD.",
+    "license": "MIT",
+    "dependencies": {
+        "@types/react": "^18.2.36"
+    }
+}
